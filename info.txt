@@ -1,0 +1,4 @@
+$ npm i express ejs express-ejs-layouts 
+npm i -D nodemon
+npm i mongoose
+npm i -D dotenv
